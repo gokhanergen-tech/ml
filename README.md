@@ -7,7 +7,7 @@
 
 
 # Resources:
-1. https://www.researchgate.net/publication/363196371_Recent_Trends_in_Artificial_Intelligence_for_Subsurface_Geothermal_Applications/figure
+1. https://www.researchgate.net/publication/363196371_Recent_Trends_in_Artificial_Intelligence_for_Subsurface_Geothermal_Applications
 2. https://www.historyofinformation.com/detail.php?entryid=782
 3. https://www.geeksforgeeks.org/what-is-perceptron-the-simplest-artificial-neural-network/
 4. https://www.geeksforgeeks.org/ml-linear-regression/
