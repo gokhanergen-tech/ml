@@ -11,3 +11,4 @@
 2. https://www.historyofinformation.com/detail.php?entryid=782
 3. https://www.geeksforgeeks.org/what-is-perceptron-the-simplest-artificial-neural-network/
 4. https://www.geeksforgeeks.org/ml-linear-regression/
+5. https://home.csulb.edu/~cwallis/artificialn/History.htm
