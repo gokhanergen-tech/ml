@@ -9,6 +9,7 @@ Explore and learn about Machine Learning:
 
 Learn about perceptrons, the building blocks of Artificial Neural Networks:  
 [Basic Perceptron Examples](https://www.kaggle.com/code/gkhanergen/creating-a-basic-perceptron)
+
 ---
 
 ## Image-to-Caption Models
@@ -79,6 +80,7 @@ Learn about perceptrons, the building blocks of Artificial Neural Networks:
 
 This repository is curated to collect **Large Language Models (LLMs)** and related tools, frameworks, and educational resources.  
 You can use it as a reference for your projects or for learning purposes.
+
 ---
 
 ##  General and Useful “Awesome” LLM Repos
