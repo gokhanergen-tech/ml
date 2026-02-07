@@ -95,7 +95,7 @@ https://github.com/cvat-ai/cvat - CVAT is an interactive video and image annotat
 
 - [large-language-models](https://github.com/topics/large-language-models)  
 - [llm](https://github.com/topics/llm)
-- 
+
 # Resources:
 1. https://www.researchgate.net/publication/363196371_Recent_Trends_in_Artificial_Intelligence_for_Subsurface_Geothermal_Applications
 2. https://www.historyofinformation.com/detail.php?entryid=782
