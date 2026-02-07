@@ -43,12 +43,40 @@ Learn about perceptrons, the building blocks of Artificial Neural Networks:
 
 ---
 
-## Annotation Tools
+## 🖊️ Annotation Tools
 
-- [CVAT](https://github.com/cvat-ai/cvat)  
+Tools for labeling images, videos, and text for computer vision and NLP tasks.
+
+- **[CVAT](https://github.com/cvat-ai/cvat)**  
   Interactive video and image annotation tool for computer vision tasks.
 
----
+- **[LabelImg](https://github.com/heartexlabs/labelImg)**  
+  Image annotation tool for bounding boxes (object detection datasets).
+
+- **[Label Studio](https://github.com/heartexlabs/label-studio)**  
+  Versatile annotation tool supporting images, text, audio, video, and time-series data.
+
+- **[SuperAnnotate](https://superannotate.com/)**  
+  Web-based collaborative annotation platform for computer vision projects.
+
+- **[MakeSense.ai](https://www.makesense.ai/)**  
+  Free online annotation tool for image labeling.
+
+- **[VoTT (Visual Object Tagging Tool)](https://github.com/microsoft/VoTT)**  
+  Microsoft’s tool for image and video labeling, supports exporting in multiple ML formats.
+
+- **[RectLabel](https://rectlabel.com/)** (macOS)  
+  Image annotation for object detection, segmentation, and bounding boxes.
+
+- **[Doccano](https://github.com/doccano/doccano)**  
+  Open-source text annotation tool for NLP tasks (text classification, sequence labeling, etc.).
+
+- **[Prodigy](https://prodi.gy/)** (commercial)  
+  Active learning-powered annotation tool for text, images, and more.
+
+- **[VGG Image Annotator (VIA)](http://www.robots.ox.ac.uk/~vgg/software/via/)**  
+  Simple and lightweight browser-based image and video annotation tool.
+
 
 ## Useful Python Tools
 
