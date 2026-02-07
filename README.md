@@ -1,45 +1,66 @@
-# AI and History [2][3]
-[You can learn and discover about ML](https://www.kaggle.com/code/gkhanergen/general-machine-learning-info)
+## Image-to-Caption Models
 
-# Creating a Basic Perceptron
-[You can see some examples perceptron which is a small unit of Artifical Neural Network.](https://www.kaggle.com/code/gkhanergen/creating-a-basic-perceptron)
+- [Hugging Face Transformers — Image Captioning](https://huggingface.co/docs/transformers/v4.47.0/tasks/image_captioning)  
+  Understand how models generate captions from images.
 
-# Image to caption models
-https://huggingface.co/docs/transformers/v4.47.0/tasks/image_captioning - Understanding Image to Caption
-https://huggingface.co/microsoft/kosmos-2-patch14-224
+- [Microsoft Kosmos-2 Patch14-224](https://huggingface.co/microsoft/kosmos-2-patch14-224)  
+  A powerful multimodal model for vision-language tasks.
 
-# Bert Models
+---
 
-https://huggingface.co/emrecan/bert-base-turkish-cased-mean-nli-stsb-tr - converting text to embedings to use for tasks such as clustering or semantic search
+## BERT Models
 
-# Generating Image Tools
+- [Turkish BERT — Embeddings for Semantic Search](https://huggingface.co/emrecan/bert-base-turkish-cased-mean-nli-stsb-tr)  
+  Convert text to embeddings for tasks like clustering or semantic search.
 
-https://github.com/CompVis/stable-diffusion
+---
 
-# Optimizastion Algorithms Tools
-https://github.com/thieu1995/mealpy/tree/master/mealpy 
+## Image Generation Tools
 
-# Annotation Tools
+- [Stable Diffusion](https://github.com/CompVis/stable-diffusion)  
+  Generate high-quality images from text prompts.
 
-https://github.com/cvat-ai/cvat - CVAT is an interactive video and image annotation tool for computer vision
+---
 
-# Useful Python Tools
-- optuna
-- pytorch
-- tensorflow
-- keras
-- sklearn - ML Models
-- catboost - boosting algorithm
-- xgboost - boosting algorithm
-- lightGBM - boosting algorithm
-- numpy
-- pandas
-- polars
-- jax - like numpy, but It has powerful features like GPU and Gradient
-- DearyPYGUI, Pyqt, kivy for gui apps
-- fast api
-- for dashboard tools: https://www.planeks.net/python-dashboard-development-framework/
+## Optimization Algorithm Tools
 
+- [Mealpy](https://github.com/thieu1995/mealpy/tree/master/mealpy)  
+  Python library for metaheuristic optimization algorithms.
+
+---
+
+## Annotation Tools
+
+- [CVAT](https://github.com/cvat-ai/cvat)  
+  Interactive video and image annotation tool for computer vision tasks.
+
+---
+
+## Useful Python Tools
+
+### ML & Data Science Libraries
+- `optuna` — Hyperparameter optimization framework  
+- `pytorch` — Deep learning library  
+- `tensorflow` — Deep learning library  
+- `keras` — High-level neural networks API  
+- `sklearn` — Machine learning models  
+- `catboost`, `xgboost`, `lightGBM` — Boosting algorithms  
+
+### Data Processing
+- `numpy` — Numerical computations  
+- `pandas` — Data manipulation  
+- `polars` — Fast DataFrame library  
+- `jax` — GPU-accelerated numerical computations with automatic differentiation  
+
+### GUI Development
+- `DearPyGUI`, `PyQt`, `Kivy` — GUI application development  
+
+### Web & API
+- `FastAPI` — High-performance web APIs  
+
+### Dashboards
+- [Python Dashboard Frameworks](https://www.planeks.net/python-dashboard-development-framework/)  
+  Guide to building dashboards in Python.
 
 ## Genel ve Faydalı “Awesome” LLM Repos
 
@@ -48,7 +69,6 @@ https://github.com/cvat-ai/cvat - CVAT is an interactive video and image annotat
 
 - **[LLMs](https://github.com/Ggasyd/LLMs)**  
   Büyük LLM listesi ve modellerin katalogu.
-
 ---
 
 ## Popüler ve Öne Çıkan LLM / Araç Repos
