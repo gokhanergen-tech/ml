@@ -165,20 +165,6 @@ Tools and models that generate images from text prompts using open‑source AI.
   Streamlined open‑source generator built on Stable Diffusion XL, easy to use out‑of‑the‑box.  
   **Use case:** Simple, Midjourney‑like generation without complex setup. 
 
-- ** https://www.openjourney.art/
-
-- **[Waifu Diffusion](https://huggingface.co/hakurei/waifu-diffusion)**  
-  Anime‑style version of Stable Diffusion fine‑tuned on high‑quality anime images.  
-  **Use case:** Anime and stylized artwork generation.
-
-- **[Waifu Diffusion v1.4](https://huggingface.co/hakurei/waifu-diffusion-v1-4)**  
-  Updated variant of the Waifu Diffusion model with refined anime results.  
-  **Use case:** Anime‑style character and scene generation.
-
-- **[DreamShaper](https://huggingface.co/Lykon/DreamShaper)**  
-  Artistic text‑to‑image model built on Stable Diffusion designed for creative outputs.  
-  **Use case:** Versatile art generation from text.
-
 ## Optimization Algorithm Tools
 
 Libraries and frameworks for solving optimization problems, including metaheuristic, evolutionary, and swarm algorithms.
