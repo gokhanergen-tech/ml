@@ -22,15 +22,35 @@ Learn about perceptrons, the building blocks of Artificial Neural Networks:
 
 ---
 
-## BERT Models
+## BERT and Transformer Models
+**BERT (Bidirectional Encoder Representations from Transformers)** is a **pretrained transformer-based model** developed by **Google AI** in 2018.
+Pretrained language models for embeddings, NLP tasks, and semantic understanding.
 
-- [Turkish BERT — Embeddings for Semantic Search](https://huggingface.co/emrecan/bert-base-turkish-cased-mean-nli-stsb-tr)  
-  Convert text to embeddings for tasks like clustering or semantic search.
+- **[Turkish BERT — Embeddings for Semantic Search](https://huggingface.co/emrecan/bert-base-turkish-cased-mean-nli-stsb-tr)**  
+  Converts text into embeddings to use for tasks like clustering, semantic search, or similarity comparison.  
+  **Use case:** Turkish NLP projects, semantic search, and text clustering.
 
----
+- **[BERT-base-uncased](https://huggingface.co/bert-base-uncased)**  
+  Pretrained model on English language using a masked language modeling (MLM) objective.
+  
+- **[distilbert-base-uncased](https://huggingface.co/distilbert-base-uncased)**   
+  **Use case:** You can use the raw model for either masked language modeling or next sentence prediction, but it's mostly intended to be fine-tuned on a downstream task. 
 
-## 🖼️ Image Generation Tools
+- **[multilingual-bert (mBERT)](https://huggingface.co/bert-base-multilingual-cased)**  
+  Pretrained on 104 languages.  
 
+- **[Sentence-BERT (all-MiniLM-L6-v2)](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2)**  
+  This is a sentence-transformers model: It maps sentences & paragraphs to a 384 dimensional dense vector space and can be used for tasks like clustering or semantic search.
+
+- **[FinBERT](https://huggingface.co/ProsusAI/finbert)**  
+  FinBERT is a pre-trained NLP model to analyze sentiment of financial text. It is built by further training the BERT language model in the finance domain, using a large financial corpus and    thereby fine-tuning it for financial sentiment classification. 
+
+- **[BioBERT](https://huggingface.co/dmis-lab/biobert-v1.1)**  
+
+- **[RoBERTa-base](https://huggingface.co/roberta-base)**  
+  Pretrained model on English language using a masked language modeling (MLM) objective.  
+
+## Image Generation Tools
 Tools and models that generate images from text prompts using open‑source AI.
 
 - **[Stable Diffusion](https://github.com/CompVis/stable-diffusion)**  
@@ -80,8 +100,7 @@ Libraries and frameworks for solving optimization problems, including metaheuris
   **Use case:** Evolutionary computation, genetic algorithms, and multi-objective optimization.  
 
 - **[Inspyred](https://github.com/aarongarrett/inspyred)**  
-  Extensible evolutionary computation framework for Python.  
-  **Use case:** Genetic algorithms, simulated annealing, and particle swarm optimization.
+  About Python library for bio-inspired computational intelligence 
 
 - **[Optuna](https://optuna.org/)**  
   Automatic hyperparameter optimization framework.  
@@ -89,19 +108,13 @@ Libraries and frameworks for solving optimization problems, including metaheuris
 
 - **[Nevergrad](https://github.com/facebookresearch/nevergrad)**  
   Gradient-free optimization platform by Facebook Research.  
-  **Use case:** Black-box optimization for ML and engineering tasks.
 
 - **[PySwarms](https://github.com/ljvmiranda921/pyswarms)**  
   Particle Swarm Optimization in Python.  
-  **Use case:** Optimization problems with swarm intelligence techniques.
 
 - **[SciPy Optimize](https://docs.scipy.org/doc/scipy/reference/optimize.html)**  
   Built-in Python library for mathematical and numerical optimization.  
   **Use case:** Standard optimization algorithms (linear, nonlinear, constrained).
-
-- **[GEATpy](https://github.com/guofei9987/GEATpy)**  
-  Python toolbox for evolutionary algorithms and genetic programming.  
-  **Use case:** Engineering and combinatorial optimization problems.
 
 ## Annotation Tools
 
