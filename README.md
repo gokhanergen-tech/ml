@@ -12,15 +12,21 @@ Learn about perceptrons, the building blocks of Artificial Neural Networks:
 
 ---
 
-## Image-to-Caption Models
+## 🖼️ Image-to-Caption Models
 
-- [Hugging Face Transformers — Image Captioning](https://huggingface.co/docs/transformers/v4.47.0/tasks/image_captioning)  
-  Understand how models generate captions from images.
+Models that generate captions or textual descriptions from images, combining vision and language tasks.
 
-- [Microsoft Kosmos-2 Patch14-224](https://huggingface.co/microsoft/kosmos-2-patch14-224)  
-  A powerful multimodal model for vision-language tasks.
+- **[Hugging Face Transformers — Image Captioning](https://huggingface.co/docs/transformers/v4.47.0/tasks/image_captioning)**  
+  Learn how models generate captions from images. The Hugging Face documentation offers detailed insights into various **image captioning models** and tasks.  
 
----
+- **[Microsoft Kosmos-2 Patch14-224](https://huggingface.co/microsoft/kosmos-2-patch14-224)**  
+  A multimodal model capable of both **vision and language tasks**.
+
+- **[CLIP (Contrastive Language-Image Pretraining)](https://github.com/openai/CLIP)**  
+  CLIP (Contrastive Language-Image Pretraining), Predict the most relevant text snippet given an image
+
+- **[ViLT (Vision-and-Language Transformer)](https://github.com/dandelin/vilt)**  
+ Code for the ICML 2021 (long talk) paper: "ViLT: Vision-and-Language Transformer Without Convolution or Region Supervision"
 
 ## BERT and Transformer Models
 **BERT (Bidirectional Encoder Representations from Transformers)** is a **pretrained transformer-based model** developed by **Google AI** in 2018.
