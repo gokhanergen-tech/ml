@@ -311,7 +311,7 @@ You can use it as a reference for your projects or for learning purposes.
 
 ---
 
-## Other Useful Repos
+## Other Repos
 
 - **[Awesome-local-LLM](https://github.com/rafska/Awesome-local-LLM)**  
   Guide to running LLMs locally.
