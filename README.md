@@ -14,10 +14,23 @@ Explore and learn about the evolution of Artificial Intelligence (AI), its miles
 
 ## Creating a Basic Perceptron
 
-Learn about perceptrons, the building blocks of Artificial Neural Networks:  
-[Basic Perceptron Examples](https://www.kaggle.com/code/gkhanergen/creating-a-basic-perceptron)
+Learn about **perceptrons**, the building blocks of **Artificial Neural Networks**. This simple algorithm helps to understand the foundation of more complex models like multi-layer neural networks.
+
+- **[Basic Perceptron Examples - Kaggle](https://www.kaggle.com/code/gkhanergen/creating-a-basic-perceptron)**  
+
+### Key Concepts:
+- **What is a Perceptron?**  
+  A perceptron is a type of **linear classifier** used for binary classification tasks. It is the simplest form of a neural network, consisting of an input layer, weights, a bias, and an output layer.
+  
+- **Training a Perceptron**  
+  Learn how a perceptron uses a learning rule (like **gradient descent**) to adjust its weights and bias to minimize the error on training data.
+
+- **Use of Perceptrons in Neural Networks**  
+  Perceptrons are the foundation of more complex models, such as **multi-layer perceptrons (MLPs)**, which form the backbone of deep learning algorithms.
 
 ---
+
+**Use Case:** This simple perceptron implementation helps you understand how artificial neurons function and forms the basis for more advanced neural network models.
 
 ## Image-to-Caption Models
 
