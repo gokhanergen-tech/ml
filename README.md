@@ -1,3 +1,16 @@
+# AI and History
+
+Explore and learn about Machine Learning:  
+[General Machine Learning Info](https://www.kaggle.com/code/gkhanergen/general-machine-learning-info)
+
+---
+
+## Creating a Basic Perceptron
+
+Learn about perceptrons, the building blocks of Artificial Neural Networks:  
+[Basic Perceptron Examples](https://www.kaggle.com/code/gkhanergen/creating-a-basic-perceptron)
+---
+
 ## Image-to-Caption Models
 
 - [Hugging Face Transformers — Image Captioning](https://huggingface.co/docs/transformers/v4.47.0/tasks/image_captioning)  
