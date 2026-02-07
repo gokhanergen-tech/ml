@@ -1,9 +1,16 @@
-# AI and History
+## AI and History
 
-Explore and learn about Machine Learning:  
-[General Machine Learning Info](https://www.kaggle.com/code/gkhanergen/general-machine-learning-info)
+Explore and learn about the evolution of Artificial Intelligence (AI), its milestones, and how machine learning has impacted various fields.
 
----
+- **[General Machine Learning Info](https://www.kaggle.com/code/gkhanergen/general-machine-learning-info)**  
+
+- **[Deep Learning Specialization (Coursera)](https://www.coursera.org/specializations/deep-learning)**  
+
+- **[Machine Learning Mastery](https://machinelearningmastery.com/)**  
+
+- **[Kaggle Learn](https://www.kaggle.com/learn)**  
+
+- **[Towards Data Science](https://towardsdatascience.com/)**  
 
 ## Creating a Basic Perceptron
 
@@ -12,7 +19,7 @@ Learn about perceptrons, the building blocks of Artificial Neural Networks:
 
 ---
 
-## 🖼️ Image-to-Caption Models
+## Image-to-Caption Models
 
 Models that generate captions or textual descriptions from images, combining vision and language tasks.
 
@@ -54,7 +61,77 @@ Pretrained language models for embeddings, NLP tasks, and semantic understanding
 - **[BioBERT](https://huggingface.co/dmis-lab/biobert-v1.1)**  
 
 - **[RoBERTa-base](https://huggingface.co/roberta-base)**  
-  Pretrained model on English language using a masked language modeling (MLM) objective.  
+  Pretrained model on English language using a masked language modeling (MLM) objective.
+
+# Python Segmentation Tools for Image Processing
+
+This repository contains a collection of tools and libraries for performing **image segmentation** using **Python**. These tools range from **deep learning-based models** to **general image processing techniques**. You can use these for your research, personal projects, or industry applications.
+
+---
+
+## ** Python Segmentation Libraries and Models**
+
+### 1. **UNet**
+
+- **[UNet - Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597)**  
+  A deep learning model for **semantic segmentation** widely used for **biomedical** image processing tasks. It uses an encoder-decoder architecture and is especially good for **medical image segmentation**.
+
+- **[UNet PyTorch Implementation](https://github.com/milesial/Pytorch-UNet)**  
+  PyTorch implementation of the U-Net for image semantic segmentation with high quality images
+
+- **[UNet++ (A Nested U-Net Architecture for Medical Image Segmentation)](https://arxiv.org/abs/1807.10165)**  
+---
+
+### 2. **Mask R-CNN**
+
+- **[Mask R-CNN Paper](https://arxiv.org/abs/1703.06870)**  
+
+- **[Mask R-CNN - PyTorch Implementation](https://github.com/matterport/Mask_RCNN)**  
+  Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow
+
+---
+
+### 3. **DeepLabV3**
+
+- **[Rethinking Atrous Convolution for Semantic Image Segmentation](https://arxiv.org/abs/1706.05587)**  
+
+- **[DeepLab](https://github.com/tensorflow/models/tree/master/research/deeplab)**  
+
+---
+
+### 4. **SegNet**
+
+- **[SegNet Paper](https://arxiv.org/abs/1511.00561)**  
+
+- **[SegNet-Tutorial](https://github.com/alexgkendall/SegNet-Tutorial)**  
+  Files for a tutorial to train SegNet for road scenes using the CamVid dataset
+---
+
+### 5. **Segmentation Models (Library)**
+
+- **[Segmentation Models](https://github.com/qubvel/segmentation_models)**  
+ Segmentation models with pretrained backbones. Keras and TensorFlow Keras.
+
+---
+
+### 6. **Albumentations**
+
+- **[Albumentations - Data Augmentation Library](https://github.com/albumentations-team/albumentations)**  
+  Fast and flexible image augmentation library. Paper about the library:
+
+---
+
+
+## **Tools for Image Preprocessing and Data Augmentation**
+
+- **[OpenCV](https://opencv.org/)**  
+  A widely used **image processing library** that contains various algorithms for segmentation tasks, including thresholding, edge detection, and contour detection.  
+  **Use case**: General-purpose computer vision tasks and pre-processing before feeding images to deep learning models.
+
+- **[SimpleCV](https://github.com/sightmachine/SimpleCV)**  
+  The Open Source Framework for Machine Vision
+
+---
 
 ## Image Generation Tools
 Tools and models that generate images from text prompts using open‑source AI.
