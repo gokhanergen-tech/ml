@@ -29,12 +29,46 @@ Learn about perceptrons, the building blocks of Artificial Neural Networks:
 
 ---
 
-## Image Generation Tools
+## 🖼️ Image Generation Tools
 
-- [Stable Diffusion](https://github.com/CompVis/stable-diffusion)  
-  Generate high-quality images from text prompts.
+Tools and models that generate images from text prompts using open‑source AI.
 
----
+- **[Stable Diffusion](https://github.com/CompVis/stable-diffusion)**  
+  Popular open‑source text‑to‑image model producing high‑quality images based on descriptions.  
+  **Use case:** Artistic content, concept art, prototyping images for ML datasets. :contentReference[oaicite:1]{index=1}
+
+- **[AUTOMATIC1111 Stable Diffusion Web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)**  
+  A powerful web user interface for running Stable Diffusion locally with advanced features like in‑painting, out‑painting, and custom samplers.  
+  **Use case:** Local interactive generation + extensive customization. :contentReference[oaicite:2]{index=2}
+
+- **[ComfyUI](https://github.com/comfyanonymous/ComfyUI)**  
+  Node‑based image generation workflow builder using Stable Diffusion models.  
+  **Use case:** Custom pipelines with nodes for complex generative workflows. :contentReference[oaicite:3]{index=3}
+
+- **[Fooocus](https://github.com/lllyasviel/Fooocus)**  
+  Streamlined open‑source generator built on Stable Diffusion XL, easy to use out‑of‑the‑box.  
+  **Use case:** Simple, Midjourney‑like generation without complex setup. :contentReference[oaicite:4]{index=4}
+
+- **OpenJourney** *(model on Hugging Face)*  
+  Free, open‑source text‑to‑image model in the style of Midjourney, designed for creative and artistic outputs.  
+  **Use case:** Stylish art generation and experimentation. :contentReference[oaicite:5]{index=5}
+
+- **Waifu Diffusion** *(model on Hugging Face)*  
+  A Stable Diffusion fine‑tuned model focused on anime and stylized artwork generation.  
+  **Use case:** Anime‑style AI art and illustration generation. :contentReference[oaicite:6]{index=6}
+
+- **DreamShaper** *(model on Hugging Face)*  
+  Diffusion‑based open model with enhanced realism and support for fine‑tuning.  
+  **Use case:** Realistic and highly detailed text‑to‑image outputs. :contentReference[oaicite:7]{index=7}
+
+- **ExoGen** *(open desktop app)*  
+  Open‑source desktop app for running Stable Diffusion locally without command line setup.  
+  **Use case:** Easy one‑click local image generation. :contentReference[oaicite:8]{index=8}
+
+- **SwarmUI** *(UI on GitHub)*  
+  Friendly open‑source frontend that integrates with backends like ComfyUI or Flux models.  
+  **Use case:** Visual interface for running multiple open‑source generators. :contentReference[oaicite:9]{index=9}
+
 
 ## Optimization Algorithm Tools
 
