@@ -12,6 +12,17 @@ https://huggingface.co/microsoft/kosmos-2-patch14-224
 
 https://huggingface.co/emrecan/bert-base-turkish-cased-mean-nli-stsb-tr - converting text to embedings to use for tasks such as clustering or semantic search
 
+# Generating Image Tools
+
+https://github.com/CompVis/stable-diffusion
+
+# Optimizastion Algorithms Tools
+https://github.com/thieu1995/mealpy/tree/master/mealpy 
+
+# Annotation Tools
+
+https://github.com/cvat-ai/cvat - CVAT is an interactive video and image annotation tool for computer visio
+
 # Resources:
 1. https://www.researchgate.net/publication/363196371_Recent_Trends_in_Artificial_Intelligence_for_Subsurface_Geothermal_Applications
 2. https://www.historyofinformation.com/detail.php?entryid=782
