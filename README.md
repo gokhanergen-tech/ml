@@ -62,59 +62,68 @@
 - [Python Dashboard Frameworks](https://www.planeks.net/python-dashboard-development-framework/)  
   Guide to building dashboards in Python.
 
-## Genel ve Faydalı “Awesome” LLM Repos
+# Awesome LLM Repositories
+
+This repository is curated to collect **Large Language Models (LLMs)** and related tools, frameworks, and educational resources.  
+You can use it as a reference for your projects or for learning purposes.
+---
+
+##  General and Useful “Awesome” LLM Repos
 
 - **[Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM)**  
-  Curated list of LLM resources.
+  A curated list of LLM resources.
 
 - **[LLMs](https://github.com/Ggasyd/LLMs)**  
-  Büyük LLM listesi ve modellerin katalogu.
+  A comprehensive list of LLMs and their models.
+
 ---
 
-## Popüler ve Öne Çıkan LLM / Araç Repos
+##  Popular and Notable LLM / Tool Repos
 
-### Modeller, Araçlar ve Frameworkler
+### Models, Tools, and Frameworks
 - **[Transformers (Hugging Face)](https://github.com/huggingface/transformers)**  
-  LLM’ler için temel kütüphane.
+  A core library for working with LLMs.
 
 - **[Ollama](https://github.com/ollama/ollama)**  
-  Çok sayıda model desteği ile LLM altyapısı.
+  LLM infrastructure with support for multiple models.
 
 - **[LangChain](https://github.com/langchain-ai/langchain)**  
-  LLM ile zincirleme görevler ve agentlar.
+  Chaining tasks and building agents using LLMs.
 
 - **[open-webui](https://github.com/open-webui/open-webui)**  
-  LLM’ler için kullanıcı arayüzü.
+  User interface for interacting with LLMs.
 
 ---
 
-## Eğitim / Öğrenme ve Örnek Projeler
+## Learning and Example Projects
 
 - **[LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)**  
-  Adım adım LLM yapımı (PyTorch).
+  Step-by-step guide to building LLMs (PyTorch).
 
 - **[gpt4free](https://github.com/xtekky/gpt4free)**  
-  Açık modeller & sohbet altyapısı.
+  Open-source models and chat infrastructure.
 
 - **[LLM4Rec](https://github.com/Ruyu-Li/LLM4Rec)**  
-  Tavsiye sistemleri için LLM.
+  LLMs for recommendation systems.
 
 ---
 
-## Diğer Faydalı Repo Konuları
+## Other Useful Repos
 
 - **[Awesome-local-LLM](https://github.com/rafska/Awesome-local-LLM)**  
-  Yerel LLM çalıştırma rehberi.
+  Guide to running LLMs locally.
 
 - **[RAGLight](https://github.com/Bessouat40/RAGLight)**  
-  CLI üzerinden GitHub repo ile sohbet aracı.
+  CLI tool to chat with GitHub repositories.
 
 ---
 
-## GitHub Topic Sayfaları
+## GitHub Topic Pages
 
 - [large-language-models](https://github.com/topics/large-language-models)  
 - [llm](https://github.com/topics/llm)
+
+---
 
 # Resources:
 1. https://www.researchgate.net/publication/363196371_Recent_Trends_in_Artificial_Intelligence_for_Subsurface_Geothermal_Applications
