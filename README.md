@@ -65,12 +65,45 @@ Tools and models that generate images from text prompts using open‑source AI.
 
 ## Optimization Algorithm Tools
 
-- [Mealpy](https://github.com/thieu1995/mealpy/tree/master/mealpy)  
-  Python library for metaheuristic optimization algorithms.
+Libraries and frameworks for solving optimization problems, including metaheuristic, evolutionary, and swarm algorithms.
 
----
+- **[Mealpy](https://github.com/thieu1995/mealpy/tree/master/mealpy)**  
+  Python library for metaheuristic optimization algorithms.  
+  **Use case:** Solve optimization problems using PSO, GA, DE, WOA, etc.
 
-## 🖊️ Annotation Tools
+- **[PyGMO / Pagmo](https://esa.github.io/pygmo2/)**  
+  Parallel Global Multiobjective Optimizer; provides evolutionary algorithms, swarm intelligence, and parallel computation.  
+  **Use case:** Large-scale multi-objective optimization problems.
+
+- **[DEAP](https://github.com/DEAP/deap)**  
+  Distributed Evolutionary Algorithms in Python.  
+  **Use case:** Evolutionary computation, genetic algorithms, and multi-objective optimization.  
+
+- **[Inspyred](https://github.com/aarongarrett/inspyred)**  
+  Extensible evolutionary computation framework for Python.  
+  **Use case:** Genetic algorithms, simulated annealing, and particle swarm optimization.
+
+- **[Optuna](https://optuna.org/)**  
+  Automatic hyperparameter optimization framework.  
+  **Use case:** Optimize machine learning model parameters efficiently.
+
+- **[Nevergrad](https://github.com/facebookresearch/nevergrad)**  
+  Gradient-free optimization platform by Facebook Research.  
+  **Use case:** Black-box optimization for ML and engineering tasks.
+
+- **[PySwarms](https://github.com/ljvmiranda921/pyswarms)**  
+  Particle Swarm Optimization in Python.  
+  **Use case:** Optimization problems with swarm intelligence techniques.
+
+- **[SciPy Optimize](https://docs.scipy.org/doc/scipy/reference/optimize.html)**  
+  Built-in Python library for mathematical and numerical optimization.  
+  **Use case:** Standard optimization algorithms (linear, nonlinear, constrained).
+
+- **[GEATpy](https://github.com/guofei9987/GEATpy)**  
+  Python toolbox for evolutionary algorithms and genetic programming.  
+  **Use case:** Engineering and combinatorial optimization problems.
+
+## Annotation Tools
 
 Tools for labeling images, videos, and text for computer vision and NLP tasks.
 
