@@ -21,7 +21,7 @@ https://github.com/thieu1995/mealpy/tree/master/mealpy
 
 # Annotation Tools
 
-https://github.com/cvat-ai/cvat - CVAT is an interactive video and image annotation tool for computer visio
+https://github.com/cvat-ai/cvat - CVAT is an interactive video and image annotation tool for computer vision
 
 # Resources:
 1. https://www.researchgate.net/publication/363196371_Recent_Trends_in_Artificial_Intelligence_for_Subsurface_Geothermal_Applications
