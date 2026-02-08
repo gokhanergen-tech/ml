@@ -250,6 +250,71 @@ Tools for labeling images, videos, and text for computer vision and NLP tasks.
 - [Python Dashboard Frameworks](https://www.planeks.net/python-dashboard-development-framework/)  
   Guide to building dashboards in Python.
 
+# RAG (Retrieval-Augmented Generation) Tools & Resources
+
+This repository collects **tools, frameworks, and learning resources** for building  
+**Retrieval-Augmented Generation (RAG)** systems with Large Language Models (LLMs).
+
+RAG enables LLMs to retrieve external knowledge (documents, databases, vector stores, APIs)
+and generate **more accurate, up-to-date, and grounded responses**.
+
+---
+
+## Core RAG Frameworks
+
+### 🔹 LangChain
+- **Docs:** https://python.langchain.com/docs/use_cases/question_answering/
+---
+
+### 🔹 LlamaIndex (GPT Index)
+- **Docs:** https://docs.llamaindex.ai/
+
+---
+
+### 🔹 Hugging Face RAG
+- **Docs:** https://huggingface.co/docs/transformers/model_doc/rag
+---
+
+## Vector Databases & Retrieval Engines
+
+### 🔹 Pinecone
+- **Docs:** https://docs.pinecone.io/docs/overview
+
+---
+
+### 🔹 Weaviate
+- **Docs:** [https://weaviate.io/developers/weaviate/concepts/retrieval-augmented-generation](https://docs.weaviate.io/weaviate)
+
+---
+
+### 🔹 FAISS
+- **Repo:** https://github.com/facebookresearch/faiss
+
+---
+
+## Embeddings & Retrieval Guides
+
+### 🔹 OpenAI Retrieval Guide
+- **Docs:** https://platform.openai.com/docs/guides/retrieval
+
+---
+
+### 🔹 Azure AI Search + RAG
+- **Docs:** https://learn.microsoft.com/en-us/azure/search/retrieval-augmented-generation-overview
+
+---
+
+## Research & Learning Resources
+
+- **RAG Paper (Lewis et al., 2020):**  
+  https://arxiv.org/abs/2005.11401
+
+- **Dense Passage Retrieval (DPR):**  
+  https://arxiv.org/abs/2004.04906
+
+- **Semantic Search Concepts:**  
+  https://www.pinecone.io/learn/semantic-search/
+
 # Awesome LLM Repositories
 
 This repository is curated to collect **Large Language Models (LLMs)** and related tools, frameworks, and educational resources.  
