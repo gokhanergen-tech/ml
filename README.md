@@ -10,7 +10,11 @@ Explore and learn about the evolution of Artificial Intelligence (AI), its miles
 
 - **[Kaggle Learn](https://www.kaggle.com/learn)**  
 
-- **[Towards Data Science](https://towardsdatascience.com/)**  
+- **[Towards Data Science](https://towardsdatascience.com/)**
+- 
+## CNN Articles
+
+-- **[An Introduction to Convolutional Neural Networks]([https://www.kaggle.com/learn](https://arxiv.org/abs/1511.08458))** 
 
 ## Creating a Basic Perceptron
 
