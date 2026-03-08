@@ -14,7 +14,7 @@ Explore and learn about the evolution of Artificial Intelligence (AI), its miles
 - 
 ## CNN Articles
 
--- **[An Introduction to Convolutional Neural Networks]([https://www.kaggle.com/learn](https://arxiv.org/abs/1511.08458))** 
+-- **[An Introduction to Convolutional Neural Networks](https://arxiv.org/abs/1511.08458)** 
 
 ## Creating a Basic Perceptron
 
